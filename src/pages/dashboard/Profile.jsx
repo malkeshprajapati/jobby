@@ -23,13 +23,13 @@ const Profile = () => {
             type="text"
             name="contact"
             labelText="contact"
-            value={"9930511276"}
+            value={"9999912345"}
           />
           <FormRow
             type="email"
             name="email"
             labelText="email"
-            value={"prajapatimalkesh24@gmail.com"}
+            value={"malkesh@gmail.com"}
           />
           <FormRow
             type="text"
